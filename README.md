@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jennifer Fan
 - 👀 I’m interested in data science, web3, fin/atgc, etc.
 - 🌱 I’m currently learning web3 in finance
-- 💞️ I’m looking to collaborate on web3 (of course, in accounting and finance)
+- 💞️ I’m looking to collaborate on web3 (of course, in finance)
 - 📫 https://www.linkedin.com/in/jenniferfann/
 
 <!---
